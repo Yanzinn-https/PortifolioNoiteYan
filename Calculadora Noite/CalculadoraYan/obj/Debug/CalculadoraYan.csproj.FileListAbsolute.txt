@@ -1,0 +1,8 @@
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\bin\Debug\CalculadoraYan.exe.config
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\bin\Debug\CalculadoraYan.exe
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\bin\Debug\CalculadoraYan.pdb
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\obj\Debug\CalculadoraYan.csproj.AssemblyReference.cache
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\obj\Debug\CalculadoraYan.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\obj\Debug\CalculadoraYan.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\obj\Debug\CalculadoraYan.exe
+C:\Users\jogos\Calculadora Noite\CalculadoraYan\obj\Debug\CalculadoraYan.pdb
